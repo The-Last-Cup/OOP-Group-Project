@@ -14,3 +14,4 @@ Thành viên:
 * Tên Class bắt đầu bằng chữ hoa: MyClass
 * Tên các variable/function bắt đầu bằng chữ thường: int myInt
 * Tên các constant dùng hoàn toàn chữ hoa, với "_" để nối: const int MY_INT
+* Tên header file, folder và cpp file giống tên Class
