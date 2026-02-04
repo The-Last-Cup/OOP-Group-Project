@@ -6,6 +6,9 @@ Thành viên:
 4. Lê Vũ Khang
 5. Trần Ngọc Tuấn
 
+# Version control
+
+
 # Naming convention
 * Tên dùng CamelCase (Chữ đầu mỗi từ viết hoa)
 * Tên Class bắt đầu bằng chữ hoa: MyClass
